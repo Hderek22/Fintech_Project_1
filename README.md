@@ -1,2 +1,5 @@
-# Fintech_Project_1
-Crypto Funding
+# Crypto Exchange Funding Analysis
+
+## A worldwide look into crypto exchanges
+
+
