@@ -28,7 +28,7 @@
     <img src="images/Globe.jpeg" alt="Logo" width="800" height="350">
   </a>
 
-<h3 align="center">Cryptocurrency Exchanges Analysis</h3>
+<h3 align="center">Cryptocurrency Exchange Analysis</h3>
 
   <p align="center">
     A high level visual look at crytocurrency exchange locations and volumes around the globe.
