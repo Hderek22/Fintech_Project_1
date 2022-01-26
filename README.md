@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Hderek22">
-    <img src="images/Globe.jpeg" alt="Logo" width="800" height="350">
+    <img src="images/globecom.jpeg" alt="Logo" width="600" height="350">
   </a>
 
 <h3 align="center">Cryptocurrency Exchange Analysis</h3>
