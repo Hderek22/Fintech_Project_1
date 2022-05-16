@@ -69,7 +69,7 @@ Using this real estate application will allow you to simply point and hover over
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contributers
 
 * https://github.com/othneildrew/Best-README-Template
 * https://github.com/cmactut
